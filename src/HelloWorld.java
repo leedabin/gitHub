@@ -11,6 +11,7 @@ public class HelloWorld {
 		System.out.println("3");
 		
 		System.out.println("hi im Dabin");
+		System.out.println("홍홍홍홍 깃 좋당");
 	}
 
 }
