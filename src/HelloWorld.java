@@ -13,7 +13,11 @@ public class HelloWorld {
 		System.out.println("hi im Dabin");
 		System.out.println("홍홍홍홍 깃 좋당");
 		
+<<<<<<< HEAD
 		System.out.println("다빈브랜치");
+=======
+		System.out.println("duyoung_branch");
+>>>>>>> duyoung_branch
 	}
 
 }
